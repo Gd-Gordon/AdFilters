@@ -29,7 +29,6 @@ live.bilibili.com##.live-skin-coloration-area.header-info-ctnr
 live.bilibili.com##.unopentwo
 map.qq.com##.ad_slide
 map.qq.com##.NewFeatureBlock
-space.bilibili.com##.i-pin-v.section
 tieba.baidu.com##.u_news
 tieba.baidu.com##.u_setting
 weibo.com##.ProfileHeader_pic_2Coeq.woo-picture-main
