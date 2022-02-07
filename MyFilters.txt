@@ -1,0 +1,97 @@
+-----------------------------------mobile only----------------------------------
+
+-app.raindrop.io###downshift-0-menu
+
+internet-usercenter.samsung.com.cn##.explore-list
+internet-usercenter.samsung.com.cn##.explore-list
+internet-usercenter.samsung.com.cn##app-explore
+internet-usercenter.samsung.com.cn##.banner
+
+-------------------------------------------------------------------------------------
+! 2022-01-20 https://app.raindrop.io
+app.raindrop.io##.grid-ow0F.wrap-Qx8h, .masonry-svdT.wrap-Qx8h
+app.raindrop.io##.undefined.false.section-Jpr8.section-WKan
+
+! 2021-05-12 https://map.qq.com
+map.qq.com##.ad_slide
+map.qq.com##.NewFeatureBlock
+
+! 2021-05-30 https://kf.miaola.info
+||kf.miaola.info/ys/*.jpg$image
+kf.miaola.info##div.drow:nth-of-type(1)
+
+! 2021-06-15 http://toy-navi.net
+toy-navi.net##table:nth-of-type(3)
+toy-navi.net##table:nth-of-type(2)
+
+! 2021-06-20 https://www.amap.com
+www.amap.com##.usel.amap-app-download
+www.amap.com##.loginbox.usel
+
+! 2021-06-20 https://buhitter.com
+buhitter.com##aside.row:nth-of-type(1)
+buhitter.com##aside.row > .clearfix.col
+
+! 2021-06-22 https://www.south-plus.net
+www.south-plus.net##div:nth-of-type(9)
+www.south-plus.net##td.banner:nth-of-type(1)
+
+
+! 2021-09-08 https://sso.xjtlu.edu.cn
+||sso.xjtlu.edu.cn/newLogin/images/logoBg.png$image
+
+! 2021-09-22 https://www.learningmall.cn
+www.learningmall.cn##.show.fade.modal
+www.learningmall.cn##.show.fade.modal-backdrop
+www.learningmall.cn##div.col-12:nth-of-type(1)
+
+! 2021-09-29 https://catbox.moe
+||catbox.moe/pictures/qts/*.jpg$image
+||catbox.moe/pictures/qts/*.png$image
+
+! 2021-10-16 https://weibo.com
+weibo.com##.woo-picture-img
+weibo.com##.ProfileHeader_pic_2Coeq.woo-picture-main
+
+! 2021-10-24 https://space.bilibili.com
+space.bilibili.com##.i-pin-v.section
+
+
+! 2021-08-28 https://live.bilibili.com
+live.bilibili.com##.unopentwo
+live.bilibili.com##.live-skin-coloration-area.header-info-ctnr
+
+! 2021-12-01 https://fanyi.caiyunapp.com
+fanyi.caiyunapp.com##[src="/static/img/webtrs-banner.bd7ae74.jpg"]
+fanyi.caiyunapp.com##[src="/static/img/invite-index-banner.2cb4f27.png"]
+fanyi.caiyunapp.com##.English.foot-container
+fanyi.caiyunapp.com##.wwads-horizontal.wwads-cn
+
+! 2021-12-01 https://www.onlinedoctranslator.com
+www.onlinedoctranslator.com##.main > .section-header
+www.onlinedoctranslator.com###ez-video-wrap-c097126a7682aa4af7c580fd9ed0a12f5a0d86bb
+
+
+! 2022-01-02 https://www.snow-plus.net
+www.snow-plus.net##div:nth-of-type(9)
+www.snow-plus.net##[href^="https://item.taobao.com/item.htm"]
+www.snow-plus.net##td.banner:nth-of-type(1)
+
+! 2022-01-04 https://tieba.baidu.com
+tieba.baidu.com##.u_news
+tieba.baidu.com##.u_setting
+
+! 2022-01-10 https://app.raindrop.io
+app.raindrop.io##.upgrade-R9fx
+app.raindrop.io##.svMainHeader.header-Tqac > .button-dQdc
+
+! 2022-01-12 https://chan.sankakucomplex.com
+chan.sankakucomplex.com###headerlogo
+chan.sankakucomplex.com###news-ticker
+chan.sankakucomplex.com##.sidebar > h5
+
+! 2022-01-27 https://cloud.spryservers.net
+cloud.spryservers.net##.app-sidebar-header__figure
+cloud.spryservers.net###nextcloud
+cloud.spryservers.net##p:nth-of-type(2)
+cloud.spryservers.net##.has-tooltip.bookmark__description
