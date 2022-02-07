@@ -1,7 +1,7 @@
 -----------------------------------mobile only-----------------------------------
 
 -app.raindrop.io###downshift-0-menu
-
+test
 internet-usercenter.samsung.com.cn##.explore-list
 internet-usercenter.samsung.com.cn##.explore-list
 internet-usercenter.samsung.com.cn##app-explore
