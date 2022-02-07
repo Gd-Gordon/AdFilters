@@ -32,8 +32,6 @@ map.qq.com##.NewFeatureBlock
 space.bilibili.com##.i-pin-v.section
 tieba.baidu.com##.u_news
 tieba.baidu.com##.u_setting
-toy-navi.net##table:nth-of-type(2)
-toy-navi.net##table:nth-of-type(3)
 weibo.com##.ProfileHeader_pic_2Coeq.woo-picture-main
 weibo.com##.woo-picture-img
 www.amap.com##.loginbox.usel
