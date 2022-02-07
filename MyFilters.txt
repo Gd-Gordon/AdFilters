@@ -1,3 +1,5 @@
+
+
 !app.raindrop.io###downshift-0-menu
 ||catbox.moe/pictures/qts/*.jpg$image
 ||catbox.moe/pictures/qts/*.png$image
@@ -10,6 +12,8 @@ app.raindrop.io##.upgrade-R9fx
 buhitter.com##aside.row > .clearfix.col
 buhitter.com##aside.row:nth-of-type(1)
 chan.sankakucomplex.com##.sidebar > h5
+chan.sankakucomplex.com###comments
+chan.sankakucomplex.com###has-mail-notice
 chan.sankakucomplex.com###headerlogo
 chan.sankakucomplex.com###news-ticker
 cloud.spryservers.net##.app-sidebar-header__figure
