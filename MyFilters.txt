@@ -1,6 +1,6 @@
 
 
-www.dwnews.com##.fTCmZi.s11hu9bj-2
+
 !app.raindrop.io###downshift-0-menu
 ||catbox.moe/pictures/qts/*.jpg$image
 ||catbox.moe/pictures/qts/*.png$image
@@ -38,8 +38,12 @@ tieba.baidu.com##.u_news
 tieba.baidu.com##.u_setting
 weibo.com##.ProfileHeader_pic_2Coeq.woo-picture-main
 weibo.com##.woo-picture-img
+wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-help.mw-portlet
+wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-navigation.mw-portlet
+wikipedia.org###siteNotice
 www.amap.com##.loginbox.usel
 www.amap.com##.usel.amap-app-download
+www.dwnews.com##.fTCmZi.s11hu9bj-2
 www.learningmall.cn##.show.fade.modal
 www.learningmall.cn##.show.fade.modal-backdrop
 www.learningmall.cn##div.col-12:nth-of-type(1)
