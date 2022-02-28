@@ -1,12 +1,12 @@
 
 
-
 !app.raindrop.io##.grid-ow0F.wrap-Qx8h, .masonry-svdT.wrap-Qx8h
 !app.raindrop.io###downshift-0-menu
 ||catbox.moe/pictures/qts/*.jpg$image
 ||catbox.moe/pictures/qts/*.png$image
 ||kf.miaola.info/ys/*.jpg$image
 ||sso.xjtlu.edu.cn/newLogin/images/logoBg.png$image
+||upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Icons8_flat_previous.svg/15px-Icons8_flat_previous.svg.png$image
 app.raindrop.io##.svMainHeader.header-Tqac > .button-dQdc
 app.raindrop.io##.undefined.false.section-Jpr8.section-WKan
 app.raindrop.io##.upgrade-R9fx
