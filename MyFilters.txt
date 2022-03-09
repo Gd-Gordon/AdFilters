@@ -5,6 +5,7 @@
 ||catbox.moe/pictures/qts/*.jpg$image
 ||catbox.moe/pictures/qts/*.png$image
 ||kf.miaola.info/ys/*.jpg$image
+||sci-hub.se/pictures/*.png$image
 ||sso.xjtlu.edu.cn/newLogin/images/logoBg.png$image
 ||upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Icons8_flat_previous.svg/15px-Icons8_flat_previous.svg.png$image
 app.raindrop.io##.svMainHeader.header-Tqac > .button-dQdc
@@ -25,6 +26,8 @@ fanyi.caiyunapp.com##.English.foot-container
 fanyi.caiyunapp.com##.wwads-horizontal.wwads-cn
 fanyi.caiyunapp.com##[src="/static/img/invite-index-banner.2cb4f27.png"]
 fanyi.caiyunapp.com##[src="/static/img/webtrs-banner.bd7ae74.jpg"]
+gelbooru.com###scrollebox > .showEditBox
+gelbooru.com###showCommentBox
 internet-usercenter.samsung.com.cn##.banner
 internet-usercenter.samsung.com.cn##.explore-list
 internet-usercenter.samsung.com.cn##.explore-list
@@ -36,6 +39,8 @@ map.qq.com##.ad_slide
 map.qq.com##.NewFeatureBlock
 tieba.baidu.com##.u_news
 tieba.baidu.com##.u_setting
+web.archive.org##.caroufredsel
+web.archive.org##.caroufredsel_wrapper
 weibo.com##.ProfileHeader_pic_2Coeq.woo-picture-main
 weibo.com##.woo-picture-img
 wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-help.mw-portlet
