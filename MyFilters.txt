@@ -2,6 +2,7 @@
 
 !app.raindrop.io##.grid-ow0F.wrap-Qx8h, .masonry-svdT.wrap-Qx8h
 !app.raindrop.io###downshift-0-menu
+||astost.littleneko.org/static/img/bg.jpg
 ||catbox.moe/pictures/qts/*.jpg$image
 ||catbox.moe/pictures/qts/*.png$image
 ||kf.miaola.info/ys/*.jpg$image
