@@ -21,6 +21,7 @@ app.raindrop.io##.undefined.false.section-Jpr8.section-WKan
 app.raindrop.io##.upgrade-R9fx
 baike.baidu.com##.j-edit-link.edit-icon
 baike.baidu.com##.J-part-audio-play.part-audio-play.audio-play
+bgm.tv###robot
 buhitter.com##aside.row > .clearfix.col
 buhitter.com##aside.row:nth-of-type(1)
 chan.sankakucomplex.com##.sidebar > h5
@@ -38,6 +39,9 @@ fanyi.caiyunapp.com##[src="/static/img/invite-index-banner.2cb4f27.png"]
 fanyi.caiyunapp.com##[src="/static/img/webtrs-banner.bd7ae74.jpg"]
 gelbooru.com###scrollebox > .showEditBox
 gelbooru.com###showCommentBox
+hitomi.la##.icon-white.icon-chevron-right
+hitomi.la##.icon-white.icon-chevron-left
+hitomi.la###fullscreen
 internet-usercenter.samsung.com.cn##.banner
 internet-usercenter.samsung.com.cn##.explore-list
 internet-usercenter.samsung.com.cn##.explore-list
@@ -50,9 +54,11 @@ map.qq.com##.ad_slide
 map.qq.com##.NewFeatureBlock
 music.163.com##.m-creator-center.f-pr.m-topvd
 music.163.com###topbar-download-link
-mutsuyume.nimbusweb.me###beamerButton > .ng-isolate-scope > .tree-secondary--item--title
-mutsuyume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(6)
-mutsuyume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(8)
+onedrive.live.com##div.od-ItemContent-header.od-ItemsScopeItemContent-header:nth-of-type(3)
+south-plus.net##div:nth-of-type(9)
+south-plus.net##.gonggao
+south-plus.net##div:nth-of-type(8)
+sukebei.nyaa.si##[href^="https://theporndude.com/"]
 tieba.baidu.com##.u_news
 tieba.baidu.com##.u_setting
 twitter.com##.r-1g40b8q.r-1gn8etr.r-gtdqiz.r-aqfbo4.css-1dbjc4n
@@ -80,3 +86,4 @@ www.snow-plus.net##div:nth-of-type(9)
 www.snow-plus.net##td.banner:nth-of-type(1)
 www.south-plus.net##div:nth-of-type(9)
 www.south-plus.net##td.banner:nth-of-type(1)
+yume.nimbusweb.me##.ng-scope.note-top-panel--action__share.note-top-panel--action
