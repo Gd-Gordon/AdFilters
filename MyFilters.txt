@@ -86,12 +86,4 @@ www.snow-plus.net##div:nth-of-type(9)
 www.snow-plus.net##td.banner:nth-of-type(1)
 www.south-plus.net##div:nth-of-type(9)
 www.south-plus.net##td.banner:nth-of-type(1)
-yume.nimbusweb.me##.ng-scope.note-top-panel--action__share.note-top-panel--action
-yume.nimbusweb.me##.ng-isolate-scope.ng-scope.nim-tour-templates > .tree-secondary--item--title
-yume.nimbusweb.me###beamerButton > .ng-isolate-scope > .tree-secondary--item--title
-yume.nimbusweb.me##.active.beamer_icon
-yume.nimbusweb.me##.custom-buttons__button-left.ng-scope.custom-buttons__button-upgrade.custom-buttons__button
-yume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(4)
-yume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(6)
-yume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(7)
-yume.nimbusweb.me##tree-secondary-item.ng-isolate-scope.ng-scope:nth-of-type(8)
+
